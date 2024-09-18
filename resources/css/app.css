@@ -1,0 +1,6 @@
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+.btn-right {
+    float: right;
+    margin: 10px 0px;
+}
